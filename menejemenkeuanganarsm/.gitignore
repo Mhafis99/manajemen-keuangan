@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+dist
+build
+*.log
+db/*.db
+db/*.db-journal
+.DS_Store
+*.tsbuildinfo
+seed.ts
+prisma/seed.ts
