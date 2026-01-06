@@ -56,9 +56,9 @@ export default function LoginPage() {
               <Wallet2 className="h-8 w-8 text-primary" />
             </div>
           </div>
-          <CardTitle className="text-2xl">Manajemen Keuangan</CardTitle>
+          <CardTitle className="text-2xl">Manajemen Keuangan Arsam</CardTitle>
           <CardDescription>
-            Masuk untuk mengelola keuangan dan anggota
+            Masuk ke Dashboard
           </CardDescription>
         </CardHeader>
         <CardContent>
